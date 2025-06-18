@@ -32,7 +32,7 @@ bash ./scripts/MSL.sh
 ```
 
 
-### Challenging Multivariate Time Series Forecasting Benchmarks (Avg Results)
+### Challenging Multivariate Time Series Anomaly Detection Benchmarks
 
 <p align="center">
 <img src="./figs/main_results.png" alt="" align=center />
