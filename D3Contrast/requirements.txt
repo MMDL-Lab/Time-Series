@@ -1,0 +1,15 @@
+arch
+einops
+math
+matplotlib
+numpy
+pandas
+Pillow
+scikit-learn
+scipy
+statsmodels
+torch
+tqdm
+tsfresh
+mamba-ssm
+causal-conv1d

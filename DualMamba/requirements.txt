@@ -1,0 +1,9 @@
+einops
+numpy
+pandas
+scikit-learn
+scipy
+tqdm
+matplotlib
+mamba-ssm
+causal-conv1d
